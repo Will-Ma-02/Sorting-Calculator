@@ -9,7 +9,7 @@ I am putting this project on my LinkedIn because this calculator is a huge step 
 
 The calculator is run using built-in commands, When you start the calculator, you can type CMDS to see a list of commands. The user can type the command NEWLIST to generate a random unsorted integer list, and VIEWLIST to print it out. There are currently 4 algorithms that have been implemented that the user can then run as a command to sort their list.
 
-## These are currently supported by the calulator:
+## These algorithms are currently supported by the calulator:
 1. BUBBLESORT (bubblesort), 
 2. INSERTSORT (insertionsort)
 3. QUICKSORT (quicksort)
