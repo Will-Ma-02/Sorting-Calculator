@@ -22,4 +22,6 @@ The calculator is run using built-in commands, When you start the calculator, yo
 4. Countingsort
 5. Timsort
 
-This is currently a work in progress and I don't have an expected completion date yet. I will update this as I work on it more. Make sure to run the SortingCalc.py script to run the program.
+This is currently a work in progress and I don't have an expected completion date yet. Expect full completion by the end of this year.
+
+Make sure to run the SortingCalc.py script to run the program. You can clone this repository or download the files into your own directory.
