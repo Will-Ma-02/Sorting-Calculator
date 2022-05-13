@@ -1,5 +1,5 @@
 ## Sorting Calculator
-Every computer science major dreads they have to learn algorithms. There is no doubt that algorithms are one of the hardest topics in all of computer science, due to all the new math, logic and notation that is introducted. Big O, master theorem, comparative sorting, grapth theory, P VS NP - it's all too much, and most students struggle as a result.
+There is no doubt that algorithms are one of the hardest topics in all of computer science, due to all the new math, logic and notation that is introducted. Big O, master theorem, comparative sorting, graph theory, P VS NP - it's all too much, and most students struggle as a result.
 
 It shouldn't have to be this way. 
 
